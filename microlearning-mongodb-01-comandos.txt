@@ -1,0 +1,37 @@
+use movie_database
+
+db.createCollection('movie_collection')
+
+db.movie_collection.insertOne(
+    {
+      "_id" : "1",
+      "title": "Joker",
+      "year": "2019",
+      "rating": "9",
+      "genre": "Drama",
+      "director": "Todd Phillips",
+      "country": "USA",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Frances Conroy"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    }
+)
+
+db
+show dbs
+show collections
+db.movie_collection.find().pretty()
+db.movie_collection.count()

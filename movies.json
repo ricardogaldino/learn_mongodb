@@ -1,0 +1,241 @@
+[
+    {
+      "title": "Joker",
+      "year": "2019",
+      "rating": "9",
+      "genre": "Drama",
+      "director": "Todd Phillips",
+      "country": "USA",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Frances Conroy"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Avengers",
+      "year": "2012",
+      "rating": "8",
+      "genre": "Adventure",
+      "director": "Joss Whedon",
+      "country": "USA",
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Rambo",
+      "year": "2008",
+      "rating": "10",
+      "genre": "Action",
+      "director": "Sylvester Stallone",
+      "country": "USA",
+      "actors": [
+        "Sylvester Stallone",
+        "Julie Benz",
+        "Matthew Marsden",
+        "Graham McTavish"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "RoboCop",
+      "year": "1987",
+      "rating": "6",
+      "genre": "Crime",
+      "director": "Paul Verhoeven",
+      "country": "USA",
+      "actors": [
+        "Peter Weller",
+        "Nancy Allen",
+        "Dan O'Herlihy",
+        "Ronny Cox"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "El Camino",
+      "year": "2019",
+      "rating": "5",
+      "genre": "Crime",
+      "director": "Vince Gilligan",
+      "country": "USA",
+      "actors": [
+        "Aaron Paul",
+        "Jonathan Banks",
+        "Matt Jones",
+        "Charles Baker"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "The Two Popes",
+      "year": "2019",
+      "rating": "8",
+      "genre": "Drama",
+      "director": "Fernando Meirelles",
+      "country": "USA",
+      "actors": [
+        "Anthony Hopkins",
+        "Jonathan Pryce",
+        "Juan Minujin"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Justice League",
+      "year": "2017",
+      "rating": "6",
+      "genre": "Adventure",
+      "director": "Zack Snyder",
+      "country": "USA",
+      "actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Amy Adams",
+        "Gal Gadot"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Star Wars",
+      "year": "1977",
+      "rating": "10",
+      "genre": "Fiction",
+      "director": "George Lucas",
+      "country": "USA",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Die Hard",
+      "year": "1988",
+      "rating": "8",
+      "genre": "Action",
+      "director": "John McTiernan",
+      "country": "USA",
+      "actors": [
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "Reginald VelJohnson",
+        "Paul Gleason"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "title": "Lethal Weapon",
+      "year": "1987",
+      "rating": "7",
+      "genre": "Action",
+      "director": "Richard Donner",
+      "country": "USA",
+      "actors": [
+        "Mel Gibson",
+        "Danny Glover",
+        "Gary Busey",
+        "Mitchell Ryan"
+      ],
+      "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    }
+  ]
