@@ -31,7 +31,15 @@ db.movie_collection.insertOne(
 )
 
 db
+
 show dbs
+
 show collections
+
 db.movie_collection.find().pretty()
+
 db.movie_collection.count()
+
+docker exec microlearning-mongodb_mongo_1 sh -c 'mongodump --authenticationDatabase admin -u root -p example --db cine_database --archive' > backup/db-backup.dump
+
+docker exec -i microlearning-mongodb_mongo_1 sh -c 'mongorestore --authenticationDatabase admin -u root -p example --db cine_database --archive' < backup/db-backup.dump
